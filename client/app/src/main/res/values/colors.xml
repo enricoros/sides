@@ -3,6 +3,7 @@
 
     <!-- overridden by the theme editor -->
     <color name="accent_material_dark">#ff9000</color>
+    <color name="statusBarColor">#212121</color>
 
 
     <!-- our customizations -->

@@ -1,6 +1,9 @@
 <resources>
     <string name="app_name">Sides</string>
 
-    <string name="hello_world">Hello world!</string>
+    <string name="daily_news_tab_title">Daily News</string>
+    <string name="add_sides_tab_title">Sides</string>
+
     <string name="action_settings">Settings</string>
+
 </resources>
