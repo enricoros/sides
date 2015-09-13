@@ -111,11 +111,11 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="551.50325"
-     inkscape:cy="1579.5042"
+     inkscape:cx="-66.988095"
+     inkscape:cy="1449.5405"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
-     showgrid="false"
+     showgrid="true"
      inkscape:window-width="2560"
      inkscape:window-height="1545"
      inkscape:window-x="-4"
@@ -143,6 +143,16 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
+    <rect
+       style="opacity:0.32258065;fill:#bb133e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+       id="rect4007"
+       width="720"
+       height="480"
+       x="-1040"
+       y="-587.63782"
+       inkscape:export-filename="/local/eros/pprojects/sides/client/app/src/main/res/mipmap-xxhdpi/deco_sides_politics.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <rect
        style="opacity:0.4;fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
        id="rect2984"
@@ -5114,7 +5124,7 @@ qVuu/wNiGJii6HaD3wAAAABJRU5ErkJggg==
        y="-1077.6378" />
     <g
        id="g3917"
-       transform="matrix(3.8461538,0,0,3.8461538,953.3557,-1509.5236)">
+       transform="matrix(3.8461538,0,0,3.8461538,960,-1487.6378)">
       <rect
          id="rect3866"
          height="130"
@@ -5326,5 +5336,51 @@ qVuu/wNiGJii6HaD3wAAAABJRU5ErkJggg==
        inkscape:export-filename="/local/eros/pprojects/sides/client/app/src/main/res/mipmap-mdpi/ic_launcher.png"
        inkscape:export-xdpi="18.120001"
        inkscape:export-ydpi="18.120001" />
+    <g
+       id="g3999"
+       transform="matrix(0.70710678,0.70710678,-0.70710678,0.70710678,-411.55299,318.30117)">
+      <rect
+         style="fill:#d8171e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3987"
+         width="60"
+         height="560"
+         x="-740"
+         y="-707.63782" />
+      <rect
+         y="-707.63782"
+         x="-820"
+         height="740"
+         width="60"
+         id="rect3989"
+         style="fill:#00aef3;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         y="-707.63782"
+         x="-580"
+         height="400"
+         width="60"
+         id="rect3991"
+         style="fill:#d8171e;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <rect
+         style="fill:#00aef3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3993"
+         width="60"
+         height="640"
+         x="-660"
+         y="-707.63782" />
+      <rect
+         style="fill:#d8171e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="rect3995"
+         width="60"
+         height="400"
+         x="-420"
+         y="-707.63782" />
+      <rect
+         y="-707.63782"
+         x="-500"
+         height="160"
+         width="60"
+         id="rect3997"
+         style="fill:#00aef3;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
   </g>
 </svg>
