@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- overridden by the theme editor -->
+    <color name="accent_material_dark">#ff9000</color>
+
+
+    <!-- our customizations -->
+
+
+</resources>
