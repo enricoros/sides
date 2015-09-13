@@ -110,9 +110,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="2"
-     inkscape:cx="624.80322"
-     inkscape:cy="1614.3536"
+     inkscape:zoom="0.70710678"
+     inkscape:cx="551.50325"
+     inkscape:cy="1579.5042"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -5245,5 +5245,86 @@ qVuu/wNiGJii6HaD3wAAAABJRU5ErkJggg==
        style="opacity:0.4;fill:#ff00ff;fill-opacity:0.4;fill-rule:nonzero;stroke:none"
        sodipodi:type="arc"
        transform="matrix(0.2,0,0,0.2,864,-358.11025)" />
+    <g
+       inkscape:export-ydpi="54.360001"
+       inkscape:export-xdpi="54.360001"
+       inkscape:export-filename="/local/eros/pprojects/sides/client/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+       id="g3965"
+       transform="translate(-1300,-420)">
+      <path
+         transform="translate(120,62)"
+         d="m 730,-597.63782 c 0,55.22848 -44.77153,100 -100,100 -55.22847,0 -100,-44.77152 -100,-100 0,-55.22847 44.77153,-100 100,-100 55.22847,0 100,44.77153 100,100 z"
+         sodipodi:ry="100"
+         sodipodi:rx="100"
+         sodipodi:cy="-597.63782"
+         sodipodi:cx="630"
+         id="path3967"
+         style="opacity:0.2;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;filter:url(#filter3954)"
+         sodipodi:type="arc" />
+      <path
+         style="fill:#d8171e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 750,-637.625 c -54.0195,4.24264 -59.0289,79.83365 0,100 62.4518,21.33572 55.2285,100 0,100 55.2285,0 100,-44.77153 100,-100 0,-55.22847 -44.7715,-100 -100,-100 z"
+         id="path3969"
+         inkscape:connector-curvature="0" />
+      <path
+         sodipodi:nodetypes="ssscs"
+         inkscape:connector-curvature="0"
+         id="path3971"
+         d="m 750,-537.63782 c 62.4518,21.33572 55.2285,100 0,100 -55.2285,0 -100,-44.77152 -100,-100 0,-55.22847 44.7715,-100 100,-100 -54.0195,4.24264 -59.0289,79.83365 0,100 z"
+         style="fill:#00aef3;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         d="m 730,-597.63782 c 0,55.22848 -44.77153,100 -100,100 -55.22847,0 -100,-44.77152 -100,-100 0,-55.22847 44.77153,-100 100,-100 55.22847,0 100,44.77153 100,100 z"
+         sodipodi:ry="100"
+         sodipodi:rx="100"
+         sodipodi:cy="-597.63782"
+         sodipodi:cx="630"
+         id="path3973"
+         style="fill:#00aef3;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc"
+         transform="matrix(0.2,0,0,0.2,624,-468.11025)" />
+      <path
+         transform="matrix(0.2,0,0,0.2,624,-368.11025)"
+         sodipodi:type="arc"
+         style="fill:#d8171e;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         id="path3975"
+         sodipodi:cx="630"
+         sodipodi:cy="-597.63782"
+         sodipodi:rx="100"
+         sodipodi:ry="100"
+         d="m 730,-597.63782 c 0,55.22848 -44.77153,100 -100,100 -55.22847,0 -100,-44.77152 -100,-100 0,-55.22847 44.77153,-100 100,-100 55.22847,0 100,44.77153 100,100 z" />
+    </g>
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g3965"
+       id="use3981"
+       transform="translate(260,0)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/local/eros/pprojects/sides/client/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+       inkscape:export-xdpi="36.240002"
+       inkscape:export-ydpi="36.240002" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3981"
+       id="use3983"
+       transform="translate(260,0)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/local/eros/pprojects/sides/client/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+       inkscape:export-xdpi="27.181219"
+       inkscape:export-ydpi="27.181219" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#use3983"
+       id="use3985"
+       transform="translate(260,0)"
+       width="744.09448"
+       height="1052.3622"
+       inkscape:export-filename="/local/eros/pprojects/sides/client/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+       inkscape:export-xdpi="18.120001"
+       inkscape:export-ydpi="18.120001" />
   </g>
 </svg>
