@@ -6,6 +6,7 @@ import android.support.v4.view.PagerAdapter;
 import android.support.v4.view.ViewPager;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.widget.RecyclerView;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -31,15 +32,19 @@ public class MagazineActivity extends AppCompatActivity {
         Toolbar toolbar = (Toolbar) findViewById(R.id.main_toolbar);
         setSupportActionBar(toolbar);
 
-        ViewPager viewPager = (ViewPager) findViewById(R.id.main_view_pager);
+        RecyclerView rv = (RecyclerView) findViewById(R.id.recycler);
+        DailyNews.initRv(this, rv);
+
+
+        //ViewPager viewPager = (ViewPager) findViewById(R.id.main_view_pager);
         MainPagerAdapter mainTabsAdapter = new MainPagerAdapter(this, mDailyNews);
-        viewPager.setAdapter(mainTabsAdapter);
+        //viewPager.setAdapter(mainTabsAdapter);
 
         TabLayout tabLayout = (TabLayout) findViewById(R.id.main_tabbar);
         tabLayout.setTabMode(TabLayout.MODE_SCROLLABLE);
         tabLayout.setTabsFromPagerAdapter(mainTabsAdapter);
-        viewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
-        tabLayout.setOnTabSelectedListener(new TabLayout.ViewPagerOnTabSelectedListener(viewPager));
+        //viewPager.addOnPageChangeListener(new TabLayout.TabLayoutOnPageChangeListener(tabLayout));
+        //tabLayout.setOnTabSelectedListener(new TabLayout.ViewPagerOnTabSelectedListener(viewPager));
     }
 
 

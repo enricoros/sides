@@ -5,17 +5,27 @@
     android:fitsSystemWindows="true">
 
 
-    <android.support.v4.widget.NestedScrollView
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/recycler"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:theme="@style/ThemeOverlay.AppCompat.Light"
         app:layout_behavior="@string/appbar_scrolling_view_behavior">
 
-        <com.enricoros.sides.WrapContentHeightViewPager
-            android:id="@+id/main_view_pager"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content" />
+    </android.support.v7.widget.RecyclerView>
 
-    </android.support.v4.widget.NestedScrollView>
+
+    <!--<android.support.v4.widget.NestedScrollView-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="match_parent"-->
+    <!--app:layout_behavior="@string/appbar_scrolling_view_behavior">-->
+
+    <!--<com.enricoros.sides.WrapContentHeightViewPager-->
+    <!--android:id="@+id/main_view_pager"-->
+    <!--android:layout_width="match_parent"-->
+    <!--android:layout_height="wrap_content" />-->
+
+    <!--</android.support.v4.widget.NestedScrollView>-->
 
 
     <android.support.design.widget.AppBarLayout
@@ -58,7 +68,7 @@
             <android.support.v7.widget.Toolbar
                 android:id="@+id/main_toolbar"
                 android:layout_width="match_parent"
-                android:layout_height="?actionBarSize"
+                android:layout_height="@dimen/tab_bar_size"
                 app:layout_collapseMode="pin"
                 app:popupTheme="@style/ThemeOverlay.AppCompat.Light" />
 
@@ -68,7 +78,7 @@
         <android.support.design.widget.TabLayout
             android:id="@+id/main_tabbar"
             android:layout_width="match_parent"
-            android:layout_height="?actionBarSize"
+            android:layout_height="@dimen/tab_bar_size"
             android:background="?attr/colorPrimary" />
 
     </android.support.design.widget.AppBarLayout>
